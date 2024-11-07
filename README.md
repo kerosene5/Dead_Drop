@@ -1,1 +1,3 @@
-# Dead_Drop
+# Dead Drop
+ Install Scapy to run it
+ `pip install scapy`
