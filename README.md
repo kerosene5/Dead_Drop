@@ -11,5 +11,11 @@ In essence, two devices (sender and receiver) which are present in the same netw
 
 This works by sending message encoded ARP packets over the network, where the router stores their details. These details, which contain the encoded message, can then be accessed by the receiver, completing the communication line.
 
+## Requirements
+* IDE or code editor to run the scripts.
+* Scapy library, in python using `pip install scapy`.
+* A network analyser, such as WireShark.
+* A Router, or a Virtual Router (which I used) to act as the dead drop.
+
 
 
