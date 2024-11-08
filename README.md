@@ -1,4 +1,15 @@
 # Heyo
 This little repo was made to show my implementation of a research paper regarding network security and steganography.
+
+If you would like to, the corresponding paper is in the repo as well. You can also go to https://dl.acm.org/doi/10.1145/3339252.3341488 in order to view it.
+
+I have attached a small diagram in order to explain the implementation.
+
 ![image](https://github.com/user-attachments/assets/498ead39-8ec7-4fa4-b050-89903c5b83aa)
+
+In essence, two devices (sender and receiver) which are present in the same network, are able to communicate by using the network router as a 'dead drop'.
+
+This works by sending message encoded ARP packets over the network, where the router stores their details. These details, which contain the encoded message, can then be accessed by the receiver, completing the communication line.
+
+
 
