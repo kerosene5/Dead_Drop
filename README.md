@@ -1,7 +1,7 @@
 # Heyo
 This little repo was made to show my implementation of a research paper regarding network security and steganography.
 
-If you would like to, the corresponding paper is in the repo as well. You can also go to https://dl.acm.org/doi/10.1145/3339252.3341488 in order to view it.
+If you would like to read it, the corresponding paper is in the repo as well. You can also go to https://dl.acm.org/doi/10.1145/3339252.3341488 in order to view it.
 
 I have attached a small diagram in order to explain the implementation.
 
